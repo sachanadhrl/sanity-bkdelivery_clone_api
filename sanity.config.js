@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'bkdelivery_clone',
+  title: 'bkdelivery_clone_api',
 
   projectId: '6nxiri9i',
   dataset: 'production',
